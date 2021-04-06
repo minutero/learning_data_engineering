@@ -51,3 +51,4 @@ print(athlete_events_spark.groupBy('Year').mean('Age'))
 
 # Group by the Year, and find the mean Age
 print(athlete_events_spark.groupBy('Year').mean('Age').show())
+
