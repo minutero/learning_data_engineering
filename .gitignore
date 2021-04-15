@@ -1,3 +1,4 @@
 .gitsecret/keys/random_seed
 !*.secret
 yelp_api.py
+.Rproj.user
